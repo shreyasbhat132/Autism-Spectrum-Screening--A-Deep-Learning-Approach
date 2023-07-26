@@ -8,6 +8,8 @@ Autism Spectrum Disorder (ASD) is a developmental disorder that can cause signif
 
 Autism spectrum disorder (ASD) is a lifelong developmental disability that affects communication and behavior. It is the fastest-growing developmental disability, and prevalence rates continue to rise incredibly. Current estimates indicate that about 1.5% of the world’s population is on the autism spectrum. Therefore, it is important for our classifier to work with high accuracy and precision scores since screening is an important factor in detecting ASD. The misclassification rates need to be low since not detecting an ASD can be dangerous, and treating it in time is also important. At the same time, it is important to note that classifying a case that does not have ASD as someone that has ASD can be worse since they do not need to undergo treatment; therefore, its important for these algorithms to be precise. In the current dataset, we have ten questions that are asked of the patients and other metrics such as gender, ethnicity, jaundice detection, etc. Based on these factors, we are trying to screen individuals for ASD and recommend further diagnoses for the same.
 
-The project intends to find whether a multi-layer perceptron model is able to classify ASD and non-ASD traits using the paitent's physical, biological, genetic and behavorial attributes. 
+The project intends to find whether a multi-layer perceptron model is able to classify ASD and non-ASD traits using the paitent's physical, biological, genetic and behavorial attributes. The model is tested on individuals based on age groups (Adults, Adoloscent, and Toddlers).
+
+
 
 
